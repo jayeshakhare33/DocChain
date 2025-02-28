@@ -84,9 +84,6 @@ DocChain is a blockchain-based system designed for **secure PII verification** a
 
 ---
 
-
----
-
 ### **Contributions**
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
